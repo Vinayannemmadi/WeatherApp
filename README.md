@@ -1,9 +1,8 @@
 **Title:**
-CodeTech IT Solutions Internship - Task Documentation: Weather Forecast Application Using HTML, CSS, JavaScript
+Softapper Internship - Task Documentation: Weather Forecast Application Using HTML, CSS, JavaScript
 
 **INTERN INFORMATION:**  
-Name: Eslavath Rakesh Nayak  
-ID: C0D4838 
+Name: Vinay Nemmadi 
 
 **Introduction**
 
